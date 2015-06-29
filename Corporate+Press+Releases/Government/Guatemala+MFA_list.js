@@ -1,0 +1,1 @@
+http://www.minex.gob.gt/noticias/NoticiasxTemas.aspx?cTema=36
