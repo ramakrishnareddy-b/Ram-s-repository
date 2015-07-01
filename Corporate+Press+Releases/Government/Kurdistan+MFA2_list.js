@@ -1,0 +1,1 @@
+http://mof-krg.org/?page=category&c=news&activities
