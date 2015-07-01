@@ -1,0 +1,1 @@
+http://www.mfa.gov.lv/en/news
