@@ -1,0 +1,1 @@
+http://www.president.mn/eng/newsCenter/index.php
