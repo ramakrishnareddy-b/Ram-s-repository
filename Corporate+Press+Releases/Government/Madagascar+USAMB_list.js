@@ -1,0 +1,1 @@
+http://www.antananarivo.usembassy.gov/embassy_news/press-releases2.html
