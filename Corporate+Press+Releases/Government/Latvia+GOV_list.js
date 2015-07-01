@@ -1,0 +1,1 @@
+http://www.mk.gov.lv/en/aktualitates
