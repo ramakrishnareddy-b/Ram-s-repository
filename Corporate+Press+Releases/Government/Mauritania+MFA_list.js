@@ -1,0 +1,1 @@
+http://www.diplomatie-mr.com/maec/site/index.php?lang=fr
