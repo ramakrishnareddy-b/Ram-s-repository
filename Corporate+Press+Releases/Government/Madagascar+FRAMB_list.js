@@ -1,0 +1,1 @@
+http://www.ambafrance-mada.org/-Toutes-les-actualites-
