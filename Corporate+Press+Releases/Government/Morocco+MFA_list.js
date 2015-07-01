@@ -1,0 +1,1 @@
+https://www.diplomatie.ma/LeMinistère/M_ArchiveActualites.aspx
