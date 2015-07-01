@@ -1,0 +1,1 @@
+http://eiti-madagascar.org/all-news/actualites/
