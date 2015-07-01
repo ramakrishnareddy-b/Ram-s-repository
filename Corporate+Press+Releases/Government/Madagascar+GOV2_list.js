@@ -1,0 +1,1 @@
+http://mae.gov.mg/category/actualites/
