@@ -1,0 +1,1 @@
+http://www.presidencia.gov.mz/index.php/noticias
