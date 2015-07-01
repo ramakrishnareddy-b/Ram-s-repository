@@ -1,0 +1,1 @@
+http://www.mme.gov.na/news/
