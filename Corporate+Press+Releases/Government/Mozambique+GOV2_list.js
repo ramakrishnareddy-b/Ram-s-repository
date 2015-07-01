@@ -1,0 +1,1 @@
+http://www.funae.co.mz/index.php?option=com_content&view=section&layout=blog&id=9&Itemid=41&lang=en
