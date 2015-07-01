@@ -1,0 +1,1 @@
+http://www.ambafrance-laos.org/-Actualite-de-l-ambassade,294-
