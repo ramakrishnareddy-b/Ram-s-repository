@@ -1,0 +1,1 @@
+http://kampala.usembassy.gov/press_releases.html

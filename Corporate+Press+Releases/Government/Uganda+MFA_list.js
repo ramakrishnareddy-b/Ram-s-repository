@@ -1,0 +1,1 @@
+http://www.mofa.go.ug/data/dnews/168/Uganda%20Signs%20an%20Inter%20Governmental%20Commission%20on%20Economic,%20Scientific%20and%20Technical%20Cooperation%20With%20Russia.html
