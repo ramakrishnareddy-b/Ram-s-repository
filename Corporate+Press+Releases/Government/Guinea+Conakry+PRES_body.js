@@ -6,7 +6,7 @@ main.contentEvaluate("http://www.presidence.gov.gn/index.php/15-actualites/498-d
    
     var cont="";
     jQuery("#content p").each(function(idx,el){
-        cont+=el.innerText+"\n\n";
+        cont+=el.innerText.trim()+"\n\n";
     });
        
     function(){
