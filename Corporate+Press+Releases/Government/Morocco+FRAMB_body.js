@@ -5,8 +5,8 @@ main.contentEvaluate("http://www.ambafrance-ma.org/COP21-Forum-de-jeunes-franco-
     function () {
         return {
             title: $('#main .title')[0].innerText,
-            published_s: $("#main .timestamp")[0].innerText.split(":")[1].trim(),
-            body: cs.textUpto($('#main p').text(), "Dernière modification "),
+            published_s: $("#main .timestamp")[0].innerText.split(":")[1].replace(/\//g,'-'),
+            body: $('#main .inner .texte')[0].innerText.trim(),
             url: document.location.href
         }; //returns object with title,published_s,body and url properties.
     }
