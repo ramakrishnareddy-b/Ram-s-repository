@@ -5,7 +5,7 @@ main.contentEvaluate("http://www.primature.gov.mr/fr/index.php?link=1&id=1491",
     function () {
         var t_ps = $(".mytext2 strong").text().split("Nouakchott, ");
         var t = t_ps[0].trim();
-        var ps = t_ps[1].replace(/\//g, "-").replace(" - ", "");
+        var ps = t_ps[1].replace(/\//g, "-").replace(" - ", "").trim();
         $(".mytext2 strong, .mytext2 img").remove();
         return {
             title: t,
