@@ -1,0 +1,1 @@
+http://www.tonengeneral.co.jp/english/news/
