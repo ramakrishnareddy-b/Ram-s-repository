@@ -1,0 +1,1 @@
+http://www.kufpec.com/AboutKUFPEC/Pages/NewsRoom.aspx#myAnchor
