@@ -1,0 +1,1 @@
+http://www.seatrucksgroup.com/media-center/press-releases
