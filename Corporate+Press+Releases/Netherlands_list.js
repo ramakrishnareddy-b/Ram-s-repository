@@ -1,0 +1,1 @@
+http://www.hertel.com/news.html
