@@ -1,0 +1,1 @@
+http://www.equate.com/en_News_Releases.cms
