@@ -1,0 +1,1 @@
+http://www.azskmg.kz/cat/press
