@@ -1,0 +1,1 @@
+http://www.statoil.com/en/newsandmedia/pages/default.aspx
