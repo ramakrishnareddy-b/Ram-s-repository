@@ -1,0 +1,1 @@
+http://www.cnoocltd.com/col/col14041/index.html
