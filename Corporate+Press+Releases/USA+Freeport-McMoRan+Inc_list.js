@@ -1,0 +1,1 @@
+http://investors.fcx.com/investor-center/news-releases/default.aspx
