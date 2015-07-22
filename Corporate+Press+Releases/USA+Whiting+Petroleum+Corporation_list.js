@@ -1,0 +1,1 @@
+http://www.whiting.com/investor-relations/press-releases/
