@@ -1,0 +1,1 @@
+http://investor.hollyfrontier.com/releases.cfm
