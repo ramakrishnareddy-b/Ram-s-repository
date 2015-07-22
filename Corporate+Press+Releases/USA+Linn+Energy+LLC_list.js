@@ -1,0 +1,1 @@
+http://ir.linnenergy.com/releases.cfm
