@@ -1,0 +1,1 @@
+http://www.newworldresources.eu/en/media/press-releases/2015
