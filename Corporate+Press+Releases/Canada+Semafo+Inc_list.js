@@ -1,0 +1,1 @@
+http://www.semafo.com/English/news-and-media/news-releases/default.aspx
