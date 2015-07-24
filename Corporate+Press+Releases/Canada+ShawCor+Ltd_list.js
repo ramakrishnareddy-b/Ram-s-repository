@@ -1,0 +1,1 @@
+http://www.shawcor.com/media/spotlight.html
