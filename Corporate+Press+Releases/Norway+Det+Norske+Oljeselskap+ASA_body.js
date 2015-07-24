@@ -1,0 +1,1 @@
+// Det Norske Oljeselskap ASA
