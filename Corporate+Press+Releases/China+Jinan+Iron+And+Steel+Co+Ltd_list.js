@@ -1,0 +1,1 @@
+http://www.bisjigang.com/en/html/news/company/
