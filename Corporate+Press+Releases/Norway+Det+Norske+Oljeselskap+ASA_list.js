@@ -1,0 +1,1 @@
+http://www.detnor.no/en/news/
