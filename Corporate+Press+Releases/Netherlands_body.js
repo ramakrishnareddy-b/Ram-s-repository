@@ -5,7 +5,7 @@ main.contentEvaluate("http://www.hertel.com/news/news-detail/altrad-finalizes-ac
     function () {
         var t = jQuery(".subcontent h1")[0].innerText.trim();
         var ps = jQuery(".subcontent .date")[0].innerText.trim();
-        jQuery(".subcontent h1, .subcontent .date, .subcontent .share, .subcontent image, .subcontent figure").remove();
+        jQuery(".subcontent h1, .subcontent .date, .subcontent .share, .subcontent img, .subcontent figure").remove();
         return {
             title: t,
             published_s: ps,
