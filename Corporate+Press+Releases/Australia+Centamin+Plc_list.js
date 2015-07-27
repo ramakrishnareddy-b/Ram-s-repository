@@ -1,0 +1,1 @@
+http://www.centamin.com/centamin/media/news
