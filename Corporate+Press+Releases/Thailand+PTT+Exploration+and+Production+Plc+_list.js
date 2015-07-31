@@ -1,0 +1,1 @@
+http://www.pttep.com/en/News-n-Media/Media%20Corner/Press%20Releases.aspx
