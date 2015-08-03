@@ -1,0 +1,1 @@
+http://investors.sandridgeenergy.com/investor-relations/press-releases/default.aspx
