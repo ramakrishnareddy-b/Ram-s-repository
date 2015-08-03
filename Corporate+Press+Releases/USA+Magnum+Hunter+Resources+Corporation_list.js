@@ -1,0 +1,1 @@
+http://www.magnumhunterresources.com/pressreleases.html
