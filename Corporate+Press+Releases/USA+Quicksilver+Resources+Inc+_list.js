@@ -1,0 +1,1 @@
+http://investors.qrinc.com/releases.cfm
