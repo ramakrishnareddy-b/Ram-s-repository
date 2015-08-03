@@ -1,0 +1,1 @@
+// Resolute Energy Corporation
