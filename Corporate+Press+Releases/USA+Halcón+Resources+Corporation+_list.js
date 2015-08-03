@@ -1,0 +1,1 @@
+http://investors.halconresources.com/releases.cfm
