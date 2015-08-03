@@ -1,0 +1,1 @@
+// Ganger Rolf ASA
