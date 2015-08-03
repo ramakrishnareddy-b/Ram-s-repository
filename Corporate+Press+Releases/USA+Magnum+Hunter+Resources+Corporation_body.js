@@ -1,0 +1,1 @@
+// Magnum Hunter Resources Corporation
