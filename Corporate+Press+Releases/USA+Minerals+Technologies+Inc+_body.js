@@ -1,1 +1,2 @@
-// Minerals Technologies Inc 
+// Minerals Technologies Inc
+// PDF files, no body
