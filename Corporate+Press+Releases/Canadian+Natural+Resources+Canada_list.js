@@ -1,0 +1,1 @@
+http://www.cnrl.com/disclaimer.html?redirect=http://www.cnrl.com/media-center/news-releases/2015.html
