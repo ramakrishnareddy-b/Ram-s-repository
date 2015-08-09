@@ -1,0 +1,1 @@
+http://www.laredopetro.com/news-and-events/press-releases.aspx
