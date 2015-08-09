@@ -1,0 +1,1 @@
+http://www.crescentpointenergy.com/invest/news
