@@ -1,0 +1,1 @@
+http://www.trilogyenergy.com/investor-relations/news-releases/
