@@ -1,0 +1,1 @@
+http://www.exxonmobil.com.qa/Qatar-English/PA/news.aspx
